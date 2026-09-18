@@ -616,7 +616,7 @@ section.freelancer h1 {
 }
 
 .contact-input {
-  background-color: var(--red);
+  background-color: var(--fiery-rose);
   color: var(--manatee);
   border-radius: var(--radius-5);
   padding: 15px 25px;
